@@ -1,9 +1,3 @@
-
--- MEIN HUB – SUPABASE DATABASE
--- Im Supabase Dashboard unter SQL Editor komplett ausführen.
--- Danach in Auth -> Users deinen Account anlegen/prüfen und den eigenen
--- User in Schritt 2 der README zum Dev-Account machen.
-
 create extension if not exists pgcrypto;
 
 -- ---------- PROFILE ----------
